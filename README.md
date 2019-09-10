@@ -1,16 +1,8 @@
-# test_flutter
+# Google Maps UI Clone
 
-A new Flutter project.
+This is a project aiming at practicing and gettting to know the Dart Programming Language and more particularly for the Flutter SDK. 
 
-## Getting Started
+Its goal was to create an UI Clone of a redesign challenge of [Google Maps](https://www.google.fr/maps) on [Uplabs](https://www.uplabs.com/) and is inspired by this [Dribbble shot](https://dribbble.com/shots/6559302-Google-Maps-Redesign-Challenge).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Demo
+![](./demo.gif)
