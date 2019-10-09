@@ -6,4 +6,4 @@ Its goal was to create an UI Clone of a redesign challenge of [Google Maps](http
 
 ## Demo
 
-![](./demo.mp4)
+![](./demo.gif)
